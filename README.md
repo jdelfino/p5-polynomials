@@ -13,4 +13,4 @@ Functions and concepts used so far:
 4. `translate(x, y)` - [translate() reference](https://p5js.org/reference/#/p5/translate)
 
 # Next step
-Check out [day 1](https://github.com/jdelfino/p5-polynomials/tree/day2)
+Check out [day 2](https://github.com/jdelfino/p5-polynomials/tree/day2)
