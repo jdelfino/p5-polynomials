@@ -11,3 +11,6 @@ Functions and concepts used so far:
 2. `color(c)` - [color() reference](https://p5js.org/reference/#/p5/color)
 3. `fill(c)` - [fill() reference](https://p5js.org/reference/#/p5/fill)
 4. `translate(x, y)` - [translate() reference](https://p5js.org/reference/#/p5/translate)
+
+# Next step
+Check out [day 1](https://github.com/jdelfino/p5-polynomials/tree/day1)
