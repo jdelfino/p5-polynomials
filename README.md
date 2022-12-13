@@ -7,7 +7,7 @@
 
 # Reference
 New concepts:
-1. `for(var x = 0; x < 10; x++)` - [for-loop reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
+1. `for(var x = 0; x < 10; x++)` - [for-loop reference](https://www.w3schools.com/js/js_loop_for.asp)
 
 Previous concepts:
 1. `circle(x, y, diameter)` - [circle() reference](https://p5js.org/reference/#/p5/circle)
